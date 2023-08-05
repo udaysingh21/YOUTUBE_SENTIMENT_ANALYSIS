@@ -5,5 +5,4 @@ plotly
 streamlit
 seaborn
 wordcloud
-json
 textblob
