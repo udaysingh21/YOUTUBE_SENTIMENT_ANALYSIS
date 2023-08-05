@@ -1,6 +1,5 @@
 import numpy as np 
 import pandas as pd 
-import seaborn as sns
 import json
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
